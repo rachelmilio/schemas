@@ -709,6 +709,7 @@
           	  <!-- DKJ: beginning list of occupations/guilds as @roles to be tagged with persName -->
           	  <attDef ident="role" mode="change">
           	    <valList mode="add" type="closed">
+          	      <valItem ident="alderman" mode="add"/>
           	      <valItem ident="baker" mode="add"/>
           	      <valItem ident="barber" mode="add"/>
           	      <valItem ident="blacksmith" mode="add"/>
@@ -725,6 +726,7 @@
           	      <valItem ident="haberdasher" mode="add"/>
           	      <valItem ident="ironmonger" mode="add"/>
           	      <valItem ident="mason" mode="add"/>
+          	      <valItem ident="mayor" mode="add"/>
           	      <valItem ident="mercer" mode="add"/>
           	      <valItem ident="merchantTaylor" mode="add"/>
           	      <valItem ident="plumber" mode="add"/>
@@ -733,6 +735,7 @@
           	      <valItem ident="skinner" mode="add"/>
           	      <valItem ident="stationer" mode="add"/>
           	      <valItem ident="vintner" mode="add"/>
+          	      <valItem ident="wait" mode="add"/>
           	    </valList>
           	  </attDef>
           		<attDef ident="calendar" mode="delete"/>
